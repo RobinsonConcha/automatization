@@ -17,19 +17,7 @@
     
   </properties>
   
-  <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>Artifactory-releases</name>
-        <url>http://localhost:8081/artifactory/automatization</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>Artifactory-snapshots</name>
-        <url>http://localhost:8081/artifactory/automatization</url>
-    </snapshotRepository>
-</distributionManagement>
-  
+ 
   <dependencies>
   <!-- https://mvnrepository.com/artifact/com.sun.faces/jsf-api -->
 <dependency>
