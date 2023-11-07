@@ -4,7 +4,7 @@
   
   <groupId>com.iplacex</groupId>
   <artifactId>automatization</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>automatization Maven Webapp</name>
   <url>http://maven.apache.org</url>
